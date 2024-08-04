@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/watsus/static/css/main.9a8700d9.css",
+    "main.js": "/watsus/static/js/main.d55a0f56.js",
+    "static/js/453.e7e9f32a.chunk.js": "/watsus/static/js/453.e7e9f32a.chunk.js",
+    "static/media/qr_code.png": "/watsus/static/media/qr_code.868f259781c25b7d2090.png",
+    "static/media/image.jpeg": "/watsus/static/media/image.d79398cd0be847a8281a.jpeg",
+    "static/media/1.png": "/watsus/static/media/1.f2954bcaaa18a6c8df9e.png",
+    "index.html": "/watsus/index.html",
+    "main.9a8700d9.css.map": "/watsus/static/css/main.9a8700d9.css.map",
+    "main.d55a0f56.js.map": "/watsus/static/js/main.d55a0f56.js.map",
+    "453.e7e9f32a.chunk.js.map": "/watsus/static/js/453.e7e9f32a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a8700d9.css",
+    "static/js/main.d55a0f56.js"
+  ]
+}
